@@ -44,7 +44,7 @@ namespace ConsoleApp1
         {
             if (matrix is null)
             {
-                Console.WriteLine("Matrix is null !");
+                Console.WriteLine("Matrix is not valid, please enter a valid matrix !");
                 return;
             }
 
